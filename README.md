@@ -42,6 +42,10 @@
 
 [![peninah98's GitHub Streak](https://streak-stats.demolab.com/?user=peninah98&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
+*   Compact layout
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peninah98\&layout=compact)
+
 ### Codewar
 
 <a target='_black' href="https://www.codewars.com/users/Penine_Ngizwenayo"><img src="https://www.codewars.com/users/Penine_Ngizwenayo/badges/micro"></a>
