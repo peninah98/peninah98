@@ -32,7 +32,9 @@
 
 <h3>My GitHub Stats </h3>
 
-![peninah98's GitHub stats](https://github-readme-stats.vercel.app/api?username=peninah98&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true)
+
+![Penina98's GitHub stats](https://github-readme-stats.vercel.app/api?username=peninah98\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
 
 ###
 
