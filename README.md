@@ -42,12 +42,12 @@
 
 [![peninah98's GitHub Streak](https://streak-stats.demolab.com/?user=peninah98&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
-*  Languages
+### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peninah98\&layout=pie)](https://github.com/peninah98/github-readme-stats)
 
 
-*   Compact layout
+*   Wakatime
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peninah98\&layout=compact)
 
