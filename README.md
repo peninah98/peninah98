@@ -42,6 +42,11 @@
 
 [![peninah98's GitHub Streak](https://streak-stats.demolab.com/?user=peninah98&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
+*  Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peninah98\&layout=pie)](https://github.com/peninah98/github-readme-stats)
+
+
 *   Compact layout
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peninah98\&layout=compact)
@@ -64,6 +69,3 @@
 <h4>Creativity 📰</h4>
 <h4>Innovative 💭thinking </h4>
 
-### wakaTime
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Peninah98)
