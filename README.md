@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-![Typing SVG](<https://readme-typing-svg.herokuapp.com/?size=35&width=900&&color=2D6DEC&lines=MEET+Me+Developer+Penine+Ngizwenayo(peninah98)>)
+![Typing SVG](<https://readme-typing-svg.herokuapp.com/?size=35&width=900&&color=2D6DEC&lines=MEET+Me+Penine+Ngizwenayo(peninah98)>)
 
 <h3>🛠 Languages & Tools & Tech stacks</h3>
 
