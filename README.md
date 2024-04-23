@@ -25,6 +25,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![Railway](https://img.shields.io/badge/-Railway-05122A?style=flat&logo=Railway)&nbsp;
 ![Thunkable](https://img.shields.io/badge/-Thunkable-05122A?style=flat&logo=thunkable)&nbsp;
+![Thunkable](https://img.shields.io/badge/-React-Native-05122A?style=flat&logo=ReactNative)&nbsp;
 
 </div>
 
